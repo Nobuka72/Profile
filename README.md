@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ary</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hey 👋 versue, it's Nobi</h1>
+<h3 align="center">learning web with a philosophy of "Powered by Laziness" </h3>
 
 - 🌱 I’m currently learning **Python**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Join me, versue;</h3>
 <p align="left">
 </p>
 
